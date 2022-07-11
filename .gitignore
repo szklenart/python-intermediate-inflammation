@@ -12,3 +12,11 @@
 *.pyc
 *.egg-info
 .pytest_cache
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter file for Course
+2022_07_11_Course1.ipynb
+.ipynb_checkpoints/
